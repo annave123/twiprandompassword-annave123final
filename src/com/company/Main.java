@@ -60,5 +60,3 @@ public class Main {
 
     }
 }
-//A lot of additional work will have to be done, but this a more organized start than last time...
-//Try your best, and hopefully it works out.
